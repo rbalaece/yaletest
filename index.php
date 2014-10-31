@@ -35,7 +35,7 @@
 
 		<?php endif; ?>
 		<?php endif; ?>
-<span>this is new fine loooks check user</span>
+<span>this is new fine loooks check user wait</span>
 	</div>
 </div>
 </main>
